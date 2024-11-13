@@ -1,10 +1,10 @@
 {
-    "name": "laravel/laravelsupport",
+    "name": "makuguren/laravelsupport",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Laravel\\Laravelsupport\\": "src/"
+            "Makuguren\\Laravelsupport\\": "src/"
         }
     },
     "authors": [

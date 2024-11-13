@@ -1,6 +1,6 @@
 <?php
 
-namespace Laravel\Laravelsupport;
+namespace Makuguren\Laravelsupport;
 use Illuminate\Support\Facades\Http;
 
 class LaravelSupport
