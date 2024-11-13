@@ -1,0 +1,18 @@
+{
+    "name": "laravel/laravelsupport",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Laravel\\Laravelsupport\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "makuguren",
+            "email": "markgmiguel@outlook.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
